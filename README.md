@@ -1,7 +1,7 @@
 # Feld-s-Friendship-Paradox
+The following assignment script is part of the coursework completed in the lecture "Computational Economics $I$" at TU Chemnitz, presented by Prof. Dr. Heinrich. Comments within the script acknowledge the course context, and where applicable, specify instances where the code is developed based on provided course materials.
 
 ## Problem Statement
-
 This assignment explores Scott Feld's friendship paradox in social networks using network generation algorithms in Python's networkx module. Feld's paradox suggests that, on average, a random person's friends will have more friends than the person themselves.
 
 ## Solution
